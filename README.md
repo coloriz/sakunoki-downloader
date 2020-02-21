@@ -8,7 +8,7 @@
 
 ## ⚠️ Warning
 
-Sakunoki is being aired every Wednesday 24:00, the on-demand version is uploaded in a couple of hours (which is thursday). And the on-demand filenames follow `miyawaki-<date_aired>.mp3` pattern. The script will replace `date_aired` as "1 day before its execution date" with the assumption that you run this script on thursday. You can, however, set a specific date by passing it as the first argument of the script (See start guide blow).
+Sakunoki is being aired every Wednesday 24:00, the on-demand version is uploaded in a couple of hours (which is thursday). And the on-demand filenames follow `miyawaki-<date_aired>.mp3` pattern. The script will replace `date_aired` as "1 day before its execution date" with the assumption that you run this script on thursday. So this script should be run on thursday. You can, however, set a specific date by passing it as the first argument of the script (See start guide blow).
 
 ## Getting Started
 
