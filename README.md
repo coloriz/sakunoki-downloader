@@ -1,6 +1,6 @@
 # sakunoki-downloader
 
-ラジオ番組 [BayFM 今夜、咲良の木の下で](http://web.bayfm.jp/saku/) オンデマンドダウンローダです。
+ラジオ番組 [BayFM 今夜、咲良の木の下で](http://web.bayfm.jp/saku/) オンデマンドダウンローダです。
 
 来週もこの時間に咲良の木の下で、あなたをダウンロードします！
 
